@@ -17,10 +17,10 @@ Attached video link to fastern the learning process.
 - [TCP and UDP](https://www.youtube.com/watch?v=Xu85vTSZRWs)
 - [DNS](https://www.youtube.com/watch?v=3cvGhO3FTtc)
 - [Load Balancing]()
-- [Clustering]
-- [Caching]
-- [Content Delivery Network (CDN)]
-- [Proxy]
-- [Availability]
-- [Scalability]
-- [Storage]
+- [Clustering]()
+- [Caching]()
+- [Content Delivery Network (CDN)]()
+- [Proxy]()
+- [Availability]()
+- [Scalability]()
+- [Storage]()
