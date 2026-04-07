@@ -20,7 +20,7 @@ Attached video link to fastern the learning process.
 - [L4 vs L7 Load Balancer](https://www.youtube.com/watch?v=uGB53fnW6XQ)
 - [Clustering](https://www.youtube.com/watch?v=pjWhtRtaJiA)
 - [Caching](https://www.youtube.com/watch?v=1NngTUYPdpI)
-- [Content Delivery Network (CDN)]()
+- [Content Delivery Network (CDN)](https://www.youtube.com/watch?v=bJ9NnLLMQ78)
 - [Proxy]()
 - [Availability]()
 - [Scalability]()
