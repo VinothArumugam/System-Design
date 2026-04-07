@@ -5,6 +5,8 @@ Hey 👋
 Welcome to the course!  
 I hope this course provides a great learning experience and helps you build strong foundations in **System Design**.
 
+Attached video link to fastern the learning process.
+
 ---
 
 ## 📚 Table of Contents
