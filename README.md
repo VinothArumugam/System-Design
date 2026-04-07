@@ -24,4 +24,4 @@ Attached video link to fastern the learning process.
 - [Proxy](https://www.youtube.com/watch?v=4NB0NDtOwIQ)
 - [Availability]()
 - [Scalability]()
-- [Storage](https://www.youtube.com/watch?v=AV4Ei1qW89o)
+- [Storage](https://www.youtube.com/watch?v=btcbNARavUM)
