@@ -21,7 +21,7 @@ Attached video link to fastern the learning process.
 - [Clustering](https://www.youtube.com/watch?v=pjWhtRtaJiA)
 - [Caching](https://www.youtube.com/watch?v=1NngTUYPdpI)
 - [Content Delivery Network (CDN)](https://www.youtube.com/watch?v=bJ9NnLLMQ78)
-- [Proxy]()
+- [Proxy](https://www.youtube.com/watch?v=4NB0NDtOwIQ)
 - [Availability]()
 - [Scalability]()
 - [Storage]()
