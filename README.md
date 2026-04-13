@@ -63,3 +63,4 @@ Attached video link to fastern the learning process.
 - [Resilience Patterns](https://www.youtube.com/watch?v=RfPNuaj5Ax0&t=93s)
 - [Rate Limiting](https://www.youtube.com/watch?v=mQCJJqUfn9Y)
 - [Service Discovery](https://www.youtube.com/watch?v=ecuEkmFs5Vk)
+- [Service Mesh](https://www.youtube.com/watch?v=xuOJF3w4vQQ)
