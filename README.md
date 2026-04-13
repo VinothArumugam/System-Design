@@ -51,3 +51,5 @@ Attached video link to fastern the learning process.
 - [Message Queues](https://www.youtube.com/watch?v=DYFocSiPOl8)
 - [Message Queues & Publish-Subscribe](https://www.youtube.com/watch?v=XvnppkWqJbs)
 - [Enterprise Service Bus (ESB)](https://www.youtube.com/watch?v=19dszTKZ8Ps)
+- [Monoliths and Microservices](https://www.youtube.com/watch?v=3fwRmW8pgWU)
+- [Event Sourcing](https://www.youtube.com/watch?v=ID-_ic1fLkY)
