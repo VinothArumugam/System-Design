@@ -57,3 +57,9 @@ Attached video link to fastern the learning process.
 - [Reverse Proxy vs API Gateway vs Load Balancer](https://www.youtube.com/watch?v=RqfaTIWc3LQ)
 - [API Types](https://www.youtube.com/watch?v=pBASqUbZgkY)
 - [Long polling, WebSockets, Server-Sent Events (SSE)](https://www.youtube.com/watch?v=3Ud6Ds2abO8)
+
+### Chapter IV: 
+- [Geohashing and Quadtrees](https://www.youtube.com/watch?v=ENbivJwB3BY)
+- [Resilience Patterns](https://www.youtube.com/watch?v=RfPNuaj5Ax0&t=93s)
+- [Rate Limiting](https://www.youtube.com/watch?v=mQCJJqUfn9Y)
+- [Service Discovery](https://www.youtube.com/watch?v=ecuEkmFs5Vk)
