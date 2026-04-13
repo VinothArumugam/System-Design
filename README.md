@@ -44,3 +44,6 @@ Attached video link to fastern the learning process.
 - [CAP theorem](https://www.youtube.com/watch?v=BHqjEjzAicA)
 - [PACELC Theorem](https://www.youtube.com/watch?v=dWjiUqikRx0)
 - [Bloom Filters](https://www.youtube.com/watch?v=GT0En1dGntY)
+
+### Chapter III: 
+- [Architectural Patterns](https://www.youtube.com/watch?v=126ALse1rWA)
