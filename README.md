@@ -43,3 +43,4 @@ Attached video link to fastern the learning process.
 - [KISS, SOLID, CAP, BASE](https://www.youtube.com/watch?v=cTyZ_hbmbDw)
 - [CAP theorem](https://www.youtube.com/watch?v=BHqjEjzAicA)
 - [PACELC Theorem](https://www.youtube.com/watch?v=dWjiUqikRx0)
+- [Bloom Filters](https://www.youtube.com/watch?v=GT0En1dGntY)
