@@ -47,3 +47,7 @@ Attached video link to fastern the learning process.
 
 ### Chapter III: 
 - [Architectural Patterns](https://www.youtube.com/watch?v=126ALse1rWA)
+- [Message Broker](https://www.youtube.com/watch?v=sqlV8mHoils)
+- [Message Queues](https://www.youtube.com/watch?v=DYFocSiPOl8)
+- [Message Queues & Publish-Subscribe](https://www.youtube.com/watch?v=XvnppkWqJbs)
+- [Enterprise Service Bus (ESB)](https://www.youtube.com/watch?v=19dszTKZ8Ps)
