@@ -53,3 +53,7 @@ Attached video link to fastern the learning process.
 - [Enterprise Service Bus (ESB)](https://www.youtube.com/watch?v=19dszTKZ8Ps)
 - [Monoliths and Microservices](https://www.youtube.com/watch?v=3fwRmW8pgWU)
 - [Event Sourcing](https://www.youtube.com/watch?v=ID-_ic1fLkY)
+- [API Gateway](https://www.youtube.com/watch?v=6ULyxuHKxg8)
+- [Reverse Proxy vs API Gateway vs Load Balancer](https://www.youtube.com/watch?v=RqfaTIWc3LQ)
+- [API Types](https://www.youtube.com/watch?v=pBASqUbZgkY)
+- [Long polling, WebSockets, Server-Sent Events (SSE)](https://www.youtube.com/watch?v=3Ud6Ds2abO8)
